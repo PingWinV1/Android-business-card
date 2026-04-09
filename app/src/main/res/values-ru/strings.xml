@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Визитка</string>
+
+    <string name="photo_content_description">Фото профиля</string>
+    <string name="full_name">Голаев Никита</string>
+    <string name="group_line">группа Б22-191-3</string>
+
+    <string name="email_icon_content_description">Почта</string>
+    <string name="phone_icon_content_description">Телефон</string>
+    <string name="github_icon_content_description">GitHub</string>
+    <string name="email_value">golaev2004@mail.ru</string>
+    <string name="phone_value">+78005553535</string>
+    <string name="github_value">https://github.com/PingWinV1</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+
+    <string name="photo_content_description">Profile photo</string>
+    <string name="full_name">Nikita Golaev</string>
+    <string name="group_line">Group B22-191-3</string>
+
+    <string name="email_icon_content_description">Email</string>
+    <string name="phone_icon_content_description">Phone</string>
+    <string name="github_icon_content_description">GitHub</string>
+    <string name="email_value">golaev2004@mail.ru</string>
+    <string name="phone_value">+78005553535</string>
+    <string name="github_value">https://github.com/PingWinV1</string>
+</resources>

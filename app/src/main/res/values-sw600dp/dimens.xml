@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">36dp</dimen>
+    <dimen name="section_gap">36dp</dimen>
+    <dimen name="title_gap">20dp</dimen>
+    <dimen name="subtitle_gap">10dp</dimen>
+    <dimen name="group_to_contacts_gap">18dp</dimen>
+
+    <dimen name="avatar_size">280dp</dimen>
+
+    <dimen name="contact_row_gap">18dp</dimen>
+    <dimen name="contact_row_padding_v">4dp</dimen>
+    <dimen name="contact_icon_size">26dp</dimen>
+    <dimen name="contact_icon_gap">14dp</dimen>
+</resources>
